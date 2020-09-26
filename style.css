@@ -1,0 +1,122 @@
+/*it is used for home page heading design*/
+.heading123 {
+text-align:center;
+font-family:candara ;
+background-color:darkgreen;
+margin:0px;
+text-transform: uppercase;
+}
+/*it is used for programme page heading design*/
+.heading1234 {
+text-align:center;
+font-family:candara ;
+background-color:rgb(87, 68, 68);
+margin:0px;
+text-transform: uppercase;
+}
+/*it is used for registration page heading design*/
+.heading12345 {
+text-align:center;
+font-family:candara ;
+background-color:rgb(20, 100, 153) ;
+margin:0px;
+text-transform: uppercase;
+}
+/*it is used for important date page heading design*/
+.headings {
+text-align:center;
+font-family:candara ;
+background-color:brown;
+margin:0px;
+text-transform: uppercase;
+}
+/* Used to design option bar text  of home,programme,registration and important dates */
+.HOM1{
+ color:white;
+ margin:1rem;
+ text-decoration: none;
+}
+/* it is used to give option bar differnt colour for different pages*/
+.background1{
+    overflow: hidden;
+    background-color:rgb(87, 68, 68);
+    padding: 10px;
+}
+/* it is used to give option bar differnt colour for different pages*/
+.background2{
+    overflow: hidden;
+    background-color:brown;
+    padding: 10px;
+}
+/* it is used to give option bar differnt colour for different pages*/
+.background{
+    overflow: hidden;
+    background-color:darkgreen;
+    padding: 10px;
+    text-align: left;
+}
+/* it is used to give option bar differnt colour for different pages*/
+.background7{
+    verflow: hidden;
+    background-color:rgb(20, 100, 153);
+    padding: 10px;
+}
+/*it is used to shift date,time available on home page to right side*/
+p{
+    text-align: right;
+}
+/*it is used to centre greetings notes and details about university*/
+.welcome{
+text-align:center;
+}
+.details{
+    overflow: hidden;
+    background-color:darkgreen;
+}
+.copy{
+    text-align: left;
+    background: brown;
+}
+.copy8{
+    text-align: left;
+    background:rgb(87, 68, 68);
+}
+.p{
+    text-align: left;
+}
+.i5{
+    text-align: left;
+    text-decoration: underline;
+color: red;
+}
+.copy9{
+    text-align: left;
+    background:darkgreen;
+}
+.copy10{
+    text-align: left;
+    background:rgb(20, 100, 153);
+}
+.logo{
+
+    text-align:center;
+}
+#submit1{
+    background:;
+
+}
+.align{
+
+    text-align:justify;
+}
+.back{
+background-color:rgb(20, 100, 153);
+text-align:center;
+padding: 18px;
+margin: 10px;
+}
+.sty{
+ text-align: center;
+    padding: 1rem;
+    border-radius: 10rem;
+}
